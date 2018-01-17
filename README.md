@@ -26,7 +26,7 @@ from manager import Role
 Role.insert_roles()
 Role.query.all()
 ```
-##### Run
+##### 5.Run
 python manager runserver
 
 
