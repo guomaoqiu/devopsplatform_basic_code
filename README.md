@@ -27,6 +27,7 @@ Role.insert_roles()
 Role.query.all()
 ```
 ##### 5.Run
+```
 python manager runserver
-
+```
 
