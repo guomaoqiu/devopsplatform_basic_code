@@ -19,7 +19,7 @@ python manager.py db init
 python manager.py db migrate
 python manager.py db upgrade
 ```
-##### 4.初始化admin管理权限数据库
+##### 4.初始化admin管理权限角色数据库
 ```
 #python manage.py shell
 from manager import Role
